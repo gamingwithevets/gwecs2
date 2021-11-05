@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7E1PtkD2PIABWptCO9f+e9i0CO2u1p5Ws+53JgiVgtVM6MHLl20+2QPhxLsVLapwqEanUESU8QnS0Z7ay9OyNw==",
+  "success": true,
+  "projectFilePath": "D:\\Evets Gamer\\Directories\\Microsoft Visual Studio\\Source\\repos\\GWECS 2\\DivMulCalc\\DivMulCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

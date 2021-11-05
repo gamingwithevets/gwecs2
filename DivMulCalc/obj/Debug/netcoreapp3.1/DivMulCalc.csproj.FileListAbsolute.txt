@@ -1,0 +1,13 @@
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\bin\Debug\netcoreapp3.1\DivMulCalc.exe
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\bin\Debug\netcoreapp3.1\DivMulCalc.deps.json
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\bin\Debug\netcoreapp3.1\DivMulCalc.runtimeconfig.json
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\bin\Debug\netcoreapp3.1\DivMulCalc.runtimeconfig.dev.json
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\bin\Debug\netcoreapp3.1\DivMulCalc.dll
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\bin\Debug\netcoreapp3.1\DivMulCalc.pdb
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\obj\Debug\netcoreapp3.1\DivMulCalc.csproj.AssemblyReference.cache
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\obj\Debug\netcoreapp3.1\DivMulCalc.AssemblyInfoInputs.cache
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\obj\Debug\netcoreapp3.1\DivMulCalc.AssemblyInfo.cs
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\obj\Debug\netcoreapp3.1\DivMulCalc.csproj.CoreCompileInputs.cache
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\obj\Debug\netcoreapp3.1\DivMulCalc.dll
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\obj\Debug\netcoreapp3.1\DivMulCalc.pdb
+D:\Evets Gamer\Directories\Microsoft Visual Studio\Source\repos\GWECS 2\DivMulCalc\obj\Debug\netcoreapp3.1\DivMulCalc.genruntimeconfig.cache
