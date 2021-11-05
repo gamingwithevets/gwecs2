@@ -7,4 +7,5 @@ This was inspired by [Girrafe Academy's C# Tutorial Series](https://www.youtube.
 # Programs
 As of now, the programs available are:
 
-GUESS THE SECRET WORD - Find the secret word hidden in the code. Can you do it?
+GUESS THE SECRET WORD - Find the secret word hidden in the code. Can you do it?  
+DIVISOR & MULTIPLE CALCULATOR - Having trouble with divisor and multiple math problems? Then this is for you!
